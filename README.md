@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Nice+to+meet+you+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<h2 align="center">Here is Zootopia team members.</h2><br>
-As we are renovation team, we are based all over the world.
-Our stack is mainly Angular, React, Next.js, Nest.js of Javascript frameworks and woo-commerce/shopify/lavavel of php frameworks.
+<h2 align="center">Here is Zootopia team</h2><br>
+<h5 align="center">As we are global team, our developers are based all over the world.</h5>
+<h5>Our stack is mainly Angular, React, Next.js, Nest.js of Javascript frameworks and woo-commerce/shopify/lavavel of php frameworks.</h5>
 
 
 
