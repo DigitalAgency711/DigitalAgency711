@@ -11,30 +11,20 @@
 
 
 ### Tools
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
-<code><img height="45" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="45" src="https://codeigniter.com/assets/icons/ci-footer.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/carrot-rabbit.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Cousine.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/fox.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/furry.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/lion.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/mr.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Okura.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/otter.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/ox.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sheep.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sloth.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Sumiya.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Tentra.png"></code>
+<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Yuki.png"></code>
 
 
 <!--
