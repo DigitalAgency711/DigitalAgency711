@@ -11,20 +11,20 @@
 
 
 ### Tools
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/carrot-rabbit.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Cousine.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/fox.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/furry.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/lion.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/mr.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Okura.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/otter.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/ox.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sheep.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sloth.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Sumiya.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Tentra.png"></code>
-<code><img height="45" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Yuki.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/carrot-rabbit.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Cousine.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/fox.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/furry.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/lion.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/mr.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Okura.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/otter.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/ox.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sheep.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/sloth.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Sumiya.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Tentra.png"></code>
+<code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Yuki.png"></code>
 
 
 <!--
