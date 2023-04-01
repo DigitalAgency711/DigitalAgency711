@@ -4,6 +4,7 @@
 
 Here is Zootopia team members.<br>
 As we are renovation team, we are based all over the world.
+Our stack is mainly Angular, React, Next.js, Nest.js of Javascript frameworks and woo-commerce/shopify/lavavel of php frameworks.
 
 
 
