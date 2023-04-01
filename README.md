@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Nice+to+meet+you+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <h2 align="center">Here is ZootoPia Team</h2><br>
-<h5 align="center">Zootopia team has a professional development team and marketing department, ranging from the development of various simple web and mobile applications to the development of huge applications.<br>
+<h5 align="center">Zootopia team has a professional development team and marketing department, ranging from the development of various simple web and mobile applications to the development of huge applications.</h5>
 
 
-We love our team members and value our team rules.
+<h5>We love our team members and value our team rules.
 
 We prioritize customer satisfaction and we are doing our best to satisfy their requirements. </h5>
 
