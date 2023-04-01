@@ -29,13 +29,10 @@
 <code><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="45" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"></code>
-<code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 
-<img align="center" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/all.png" width="500" height="320" />
+<img align="right" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/all.png" width="500" height="320" />
 <!--
 **DigitalAgency711/DigitalAgency711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
