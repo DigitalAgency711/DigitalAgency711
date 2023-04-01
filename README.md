@@ -7,7 +7,7 @@
 <h5>Our stack is mainly Angular, React, Next.js, Nest.js of Javascript frameworks and woo-commerce/shopify/lavavel of php frameworks.</h5>
 
 
-<img align="right" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/whoweare.png" width="500" height="240" />
+<img align="right" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/whoweare.jpg" width="500" height="240" />
 
 
 ### Tools
