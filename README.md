@@ -5,6 +5,12 @@
 <h2 align="center">Here is Zootopia team</h2><br>
 <h5 align="center">As we are global team, our developers are based all over the world.</h5>
 <h5>Our stack is mainly Angular, React, Next.js, Nest.js of Javascript frameworks and woo-commerce/shopify/lavavel of php frameworks.</h5>
+
+
+<img align="right" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/all.png" width="500" height="320" />
+
+
+### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -31,8 +37,6 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-
-<img align="right" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/all.png" width="500" height="320" />
 <!--
 **DigitalAgency711/DigitalAgency711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
