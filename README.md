@@ -16,7 +16,7 @@ We prioritize customer satisfaction and we are doing our best to satisfy their r
 <img align="right" border="20" alt="PNG" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/whoweare.jpg" width="500" height="270" />
 
 
-### Tools
+### Members
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/carrot-rabbit.png"></code>
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Cousine.png"></code>
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/fox.png"></code>
@@ -31,6 +31,10 @@ We prioritize customer satisfaction and we are doing our best to satisfy their r
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Sumiya.png"></code>
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Tentra.png"></code>
 <code><img height="60" src="https://github.com/DigitalAgency711/zootopia/blob/main/src/img/Yuki.png"></code>
+
+<br>
+<h1 align="center">. . .</h1><br><br>
+<h2 align="center">follow me !</h2>
 
 
 <!--
