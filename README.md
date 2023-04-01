@@ -34,7 +34,7 @@ We prioritize customer satisfaction and we are doing our best to satisfy their r
 
 <br>
 <h1 align="center">. . .</h1><br><br>
-<h2 align="center">follow me !</h2>
+<h2 align="center">follow me !</h2><br>
 
 
 <!--
