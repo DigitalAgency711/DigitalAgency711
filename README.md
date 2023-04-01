@@ -2,7 +2,9 @@
 
 
 
-### We are Zootopia Team
+### Our Zootopia Team
+
+<img src = "https://github.com/DigitalAgency711/zootopia/tree/main/src/img/all.png">
 <!--
 **DigitalAgency711/DigitalAgency711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
