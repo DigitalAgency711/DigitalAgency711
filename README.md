@@ -35,7 +35,7 @@ We prioritize customer satisfaction and we are doing our best to satisfy their r
 <br>
 <h1 align="center">. . .</h1><br>
 
-## [ <h2 align = "center" >Visit Team<h2> ](https://zootopiagroup.netlify.io)
+## [ <h2 align = "center" >Visit Team<h2> ](https://zootopiagroup.netlify.app)
 
 
 <!--
